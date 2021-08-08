@@ -1,0 +1,15 @@
+C:\Users\colak\Desktop\RG33\PredmetniZadatak3\PredmetniZadatak3\obj\Debug\PredmetniZadatak3.csprojAssemblyReference.cache
+C:\Users\colak\Desktop\RG33\PredmetniZadatak3\PredmetniZadatak3\obj\Debug\MainWindow.g.cs
+C:\Users\colak\Desktop\RG33\PredmetniZadatak3\PredmetniZadatak3\obj\Debug\App.g.cs
+C:\Users\colak\Desktop\RG33\PredmetniZadatak3\PredmetniZadatak3\obj\Debug\PredmetniZadatak3_MarkupCompile.cache
+C:\Users\colak\Desktop\RG33\PredmetniZadatak3\PredmetniZadatak3\obj\Debug\PredmetniZadatak3_MarkupCompile.lref
+C:\Users\colak\Desktop\RG33\PredmetniZadatak3\PredmetniZadatak3\bin\Debug\PredmetniZadatak3.exe.config
+C:\Users\colak\Desktop\RG33\PredmetniZadatak3\PredmetniZadatak3\bin\Debug\PredmetniZadatak3.exe
+C:\Users\colak\Desktop\RG33\PredmetniZadatak3\PredmetniZadatak3\bin\Debug\PredmetniZadatak3.pdb
+C:\Users\colak\Desktop\RG33\PredmetniZadatak3\PredmetniZadatak3\obj\Debug\MainWindow.baml
+C:\Users\colak\Desktop\RG33\PredmetniZadatak3\PredmetniZadatak3\obj\Debug\PredmetniZadatak3.g.resources
+C:\Users\colak\Desktop\RG33\PredmetniZadatak3\PredmetniZadatak3\obj\Debug\PredmetniZadatak3.Properties.Resources.resources
+C:\Users\colak\Desktop\RG33\PredmetniZadatak3\PredmetniZadatak3\obj\Debug\PredmetniZadatak3.csproj.GenerateResource.cache
+C:\Users\colak\Desktop\RG33\PredmetniZadatak3\PredmetniZadatak3\obj\Debug\PredmetniZadatak3.csproj.CoreCompileInputs.cache
+C:\Users\colak\Desktop\RG33\PredmetniZadatak3\PredmetniZadatak3\obj\Debug\PredmetniZadatak3.exe
+C:\Users\colak\Desktop\RG33\PredmetniZadatak3\PredmetniZadatak3\obj\Debug\PredmetniZadatak3.pdb
